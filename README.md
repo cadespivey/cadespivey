@@ -21,19 +21,15 @@ I do not think the future of legal technology is just bigger platforms, more das
 
 I think the better direction is fewer systems, simpler interfaces, and more integrated workflows that help lawyers spend more time understanding clients and less time managing administrative overhead.
 
-Technology should make legal work more local, more personal, and more attentive to the facts and people that actually matter in a given case.
+Technology should make legal work more personal and more attentive to the facts and people that actually matter in a given case.
+
+If a tool removes friction, preserves context, protects sensitive information, and makes the final work product better, I’m interested.
 
 ## AI and privacy
 
 I’m particularly interested in locally hosted AI and privacy-preserving legal tools.
 
 Lawyers handle sensitive information by default. If AI is going to become a serious part of legal practice, privacy and control over client data cannot be treated as afterthoughts. Local models, private infrastructure, and carefully designed workflows will be critical to protecting client confidences and privacy rights.
-
-## Working style
-
-I prefer clear structure, concise writing, clean formatting, and systems that work under real conditions. My bias is toward practical improvements over elaborate setups.
-
-If a tool removes friction, preserves context, protects sensitive information, and makes the final work product better, I’m interested.
 
 ## Current setup
 
