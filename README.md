@@ -1,40 +1,50 @@
 # Cade Spivey
 
-I’m an attorney interested in using technology to make the practice of law more precise, more personal, and more useful to individual clients.
+I’m a commercial and intellectual-property litigator who builds legal software for practicing lawyers.
 
-Most of my work involves writing, research, analysis, document review, and workflow design. I’m especially interested in tools that make those processes clearer, faster, and easier to audit without sacrificing judgment, context, or professional responsibility.
+My work sits at the intersection of legal judgment, product design, and applied AI: identifying recurring problems in legal practice, translating them into concrete workflows, building and testing the resulting tools, and refining them against real-world use.
 
-## What I’m working on
+## Current projects
 
-I use GitHub mostly as a place to experiment with practical tools and workflows, including:
+### [The Florida Litigator](https://thefloridalitigator.com/)
+A public research and litigation-intelligence project for Florida civil litigators. It combines weekly legal updates with a growing court-personnel and local-procedure directory, backed by an evidence-preserving research workflow that tracks sources, dates, changes, and publication state.
 
-- Legal workflow automation
-- Document organization and versioning
-- AI-assisted drafting and review
-- Timekeeping and billing cleanup
-- Research and knowledge-management systems
-- Small utilities that reduce repetitive work
+**Focus:** legal research systems, evidence provenance, court-procedure intelligence, public legal data, static publishing, Python.
 
-## How I think about legal technology
+### [Supra](https://supralegal.ai/)
+A native macOS legal workspace built around matters, documents, deadlines, billing, and local AI assistance. Supra is designed around local ownership of legal data and deliberate connections to external services rather than a hosted customer-data backend.
 
-I do not think the future of legal technology is just bigger platforms, more dashboards, or more disconnected tools.
+Its AI layer, Infra, uses configurable local reasoning and embedding models to support document analysis, retrieval, drafting, and other matter-scoped workflows while keeping attorney review and source verification in the loop.
 
-I think the better direction is fewer systems, simpler interfaces, and more integrated workflows that help lawyers spend more time understanding clients and less time managing administrative overhead.
+**Focus:** Swift, SwiftUI, local LLMs, MLX, retrieval, document intelligence, workflow design, privacy-preserving AI.
 
-Technology should make legal work more personal and more attentive to the facts and people that actually matter in a given case.
+### [CopyPasta](https://github.com/cadespivey/CopyPasta)
+A small macOS menu-bar utility for restoring recent plain-text clipboard entries without persistence, analytics, accessibility permissions, or network access.
 
-If a tool removes friction, preserves context, protects sensitive information, and makes the final work product better, I’m interested.
+**Focus:** SwiftUI, AppKit, macOS utilities, privacy-by-design.
 
-## AI and privacy
+## How I approach legal technology
 
-I’m particularly interested in locally hosted AI and privacy-preserving legal tools.
+The interesting part of legal AI is not generating more text. It is designing systems that understand the structure of legal work: the source material, the workflow, the review points, the failure modes, and the professional judgment that cannot be delegated.
 
-Lawyers handle sensitive information by default. If AI is going to become a serious part of legal practice, privacy and control over client data cannot be treated as afterthoughts. Local models, private infrastructure, and carefully designed workflows will be critical to protecting client confidences and privacy rights.
+I’m particularly interested in:
 
-## Current setup
+- translating legal processes into reliable technical workflows;
+- agentic research with inspectable source evidence;
+- retrieval and document-intelligence systems;
+- legal drafting and review with explicit grounding and verification;
+- local and privacy-preserving AI;
+- workflow automation that reduces administrative friction without hiding important context; and
+- products designed around how lawyers actually work.
 
-MacBook Pro. iPad Pro. A lot of drafting, reviewing, organizing, and refining.
+## Background
 
-## Interests
+I practice commercial and IP litigation at [Burr & Forman LLP](https://www.burr.com/). Before law, I served seven years as a U.S. Navy Surface Warfare Officer.
 
-Legal tech, AI-assisted legal practice, litigation workflows, document automation, local-first software, privacy-preserving AI, and better systems for client-centered legal work.
+That combination shapes how I build: define the mission, understand the operating environment, make the system observable, test it under realistic conditions, and keep a human accountable for the final decision.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/cade-spivey/)
+- [TheFloridaLitigator.com](https://thefloridalitigator.com/)
+- [Supra](https://supralegal.ai/)
