@@ -1,55 +1,57 @@
 # Cade Spivey
 
-I’m a commercial and intellectual-property litigator who builds legal software for practicing lawyers.
+**Attorney · Legal Engineer · Product Builder**
 
-My work sits at the intersection of legal judgment, product design, and applied AI: identifying recurring problems in legal practice, translating them into concrete workflows, building and testing the resulting tools, and refining them against real-world use.
+I’m a commercial and intellectual-property litigator who builds legal and AI products. My work sits at the intersection of legal judgment, product design, and engineering: identify a recurring workflow problem, model the underlying process, build a usable system, test it against real work, and refine it around the failure modes that matter.
 
-## Current projects
+## Selected work
 
 ### [The Florida Litigator](https://thefloridalitigator.com/)
-A public research and litigation-intelligence project for Florida civil litigators. It combines weekly legal updates with a growing court-personnel and local-procedure directory, backed by an evidence-preserving research workflow that tracks sources, dates, changes, and publication state.
+A public litigation-intelligence platform for Florida civil litigators. It combines weekly legal updates with a growing database of judges, court personnel, local procedures, and official court resources.
 
-**Focus:** legal research systems, evidence provenance, court-procedure intelligence, public legal data, static publishing, Python.
+The research workflow preserves source evidence, retrieval dates, change history, and publication state so legal updates can be reviewed before they are published.
+
+**Engineering:** Python, SQLite, GitHub Pages, automated research workflows, evidence provenance, legal-data normalization, static publishing.
 
 ### [Supra](https://supralegal.ai/)
-A native macOS legal workspace built around matters, documents, deadlines, billing, and local AI assistance. Supra is designed around local ownership of legal data and deliberate connections to external services rather than a hosted customer-data backend.
+A native macOS legal workspace built around matters, documents, deadlines, billing, and local AI assistance.
 
-Its AI layer, Infra, uses configurable local reasoning and embedding models to support document analysis, retrieval, drafting, and other matter-scoped workflows while keeping attorney review and source verification in the loop.
+Its AI layer, Infra, uses configurable local reasoning and embedding models for matter-scoped retrieval, document analysis, drafting, and other legal workflows. The product is designed around local ownership of legal data, explicit access boundaries, source review, and attorney control over final work product.
 
-**Focus:** Swift, SwiftUI, local LLMs, MLX, retrieval, document intelligence, workflow design, privacy-preserving AI.
+**Engineering:** Swift, SwiftUI, Core Data/SQLite, MLX, local LLMs, embeddings and retrieval, document intelligence, workflow architecture, privacy-preserving AI.
 
 ### [GPU Ninja](https://gpuninja.com/) — Developer
-A hardware-and-model intelligence project for comparing GPU specifications, AI-model compatibility, deployment requirements, and cost. I contribute to the product’s technical architecture, engineering standards, and implementation.
+A hardware-and-model intelligence product for comparing GPU specifications, AI-model compatibility, deployment requirements, and cost. I contribute to product architecture, engineering standards, implementation decisions, and the translation of hardware/model constraints into usable product requirements.
 
-**Focus:** GPU/AI infrastructure, model compatibility, technical product design, web development, architecture.
+**Engineering:** GPU and AI infrastructure, model compatibility, technical product design, web development, architecture.
 
 ### [CopyPasta](https://github.com/cadespivey/CopyPasta)
-A small macOS menu-bar utility for restoring recent plain-text clipboard entries without persistence, analytics, accessibility permissions, or network access.
+A lightweight macOS menu-bar utility that keeps a short, in-memory history of plain-text clipboard entries without persistence, analytics, accessibility permissions, or network access.
 
-**Focus:** SwiftUI, AppKit, macOS utilities, privacy-by-design.
+**Engineering:** Swift, SwiftUI, AppKit, macOS application design, privacy-by-design.
+
+## Technical focus
+
+- **Applied AI:** local LLMs, MLX, embeddings, retrieval/RAG, agentic research, grounding, verification, evaluation, and human-in-the-loop workflows
+- **Software:** Swift, SwiftUI, Python, SQLite/Core Data, Git/GitHub, CI/CD, static web publishing
+- **Legal systems:** litigation workflows, legal research, document intelligence, knowledge management, drafting and review, practice-management systems
+- **Product:** workflow discovery, requirements definition, architecture, prototyping, testing, documentation, and iterative delivery
 
 ## How I approach legal technology
 
-The interesting part of legal AI is not generating more text. It is designing systems that understand the structure of legal work: the source material, the workflow, the review points, the failure modes, and the professional judgment that cannot be delegated.
+The interesting part of legal AI is not generating more text. It is designing systems around the structure of legal work: the source material, the workflow, the review points, the edge cases, the audit trail, and the professional judgment that cannot be delegated.
 
-I’m particularly interested in:
-
-- translating legal processes into reliable technical workflows;
-- agentic research with inspectable source evidence;
-- retrieval and document-intelligence systems;
-- legal drafting and review with explicit grounding and verification;
-- local and privacy-preserving AI;
-- workflow automation that reduces administrative friction without hiding important context; and
-- products designed around how lawyers actually work.
+I am particularly interested in products that make legal work faster and more precise without making it less inspectable.
 
 ## Background
 
 I practice commercial and IP litigation at [Burr & Forman LLP](https://www.burr.com/). Before law, I served seven years as a U.S. Navy Surface Warfare Officer.
 
-That combination shapes how I build: define the mission, understand the operating environment, make the system observable, test it under realistic conditions, and keep a human accountable for the final decision.
+That combination shapes how I build: understand the operating environment, define the requirements, make the system observable, test it under realistic conditions, and keep a human accountable for the final decision.
 
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/cade-spivey/)
 - [TheFloridaLitigator.com](https://thefloridalitigator.com/)
 - [Supra](https://supralegal.ai/)
+- [GPU Ninja](https://gpuninja.com/)
