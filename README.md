@@ -18,6 +18,11 @@ Its AI layer, Infra, uses configurable local reasoning and embedding models to s
 
 **Focus:** Swift, SwiftUI, local LLMs, MLX, retrieval, document intelligence, workflow design, privacy-preserving AI.
 
+### [GPU Ninja](https://gpuninja.com/) — Developer
+A hardware-and-model intelligence project for comparing GPU specifications, AI-model compatibility, deployment requirements, and cost. I contribute to the product’s technical architecture, engineering standards, and implementation.
+
+**Focus:** GPU/AI infrastructure, model compatibility, technical product design, web development, architecture.
+
 ### [CopyPasta](https://github.com/cadespivey/CopyPasta)
 A small macOS menu-bar utility for restoring recent plain-text clipboard entries without persistence, analytics, accessibility permissions, or network access.
 
